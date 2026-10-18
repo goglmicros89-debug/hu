@@ -1,0 +1,2 @@
+# Block direct access to victim logs
+Require all denied
